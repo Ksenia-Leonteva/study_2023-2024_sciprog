@@ -8,7 +8,7 @@ author:
 institute:
   - Российский университет дружбы народов
   - Москва, Россия
-date: 22 сентября 2023
+date: 21 сентября 2023
 
 ## i18n babel
 babel-lang: russian
